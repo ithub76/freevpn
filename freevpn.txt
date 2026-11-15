@@ -1,6 +1,9 @@
 # profile-title: FREE ALL VPN | Полная • Full | VLESS
 # profile-update-interval: 1
 # Date/Time: 2026-11-15 / 20:36 (Moscow)
+#subscription-autoconnect: 1
+#subscription-autoconnect-type: lowestdelay
+#subscription-ping-onopen-enabled: 1
 
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HqvCfh7ogQWV0cmlzVlBOIiwiYWRkIjoiMTk1LjEzMy4xMzUuMjM4IiwicG9ydCI6IjEwMDg2IiwiaWQiOiJiODMxMzgxZC02MzI0LTRkNTMtYWQ0Zi04Y2RhNDhiMzA4MTEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ?fp=edge
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HqvCfh7ogQWV0cmlzVlBOIiwiYWRkIjoiMTk1LjEzMy4xMzUuMjM4IiwicG9ydCI6IjEwMDg2IiwiaWQiOiJiODMxMzgxZC02MzI0LTRkNTMtYWQ0Zi04Y2RhNDhiMzA4MTEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ?fp=safari
